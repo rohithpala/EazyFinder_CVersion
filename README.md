@@ -20,9 +20,9 @@ Version 1.1 has some minor code changes for improving the experience<br>
 EazyFidner is also written in Java and Python<br>
 You can find these codes here - <br>
 <a href="https://github.com/rohithpala/EazyFinder_JavaVersion">Java</a><br>
+Also have a look at the branches present
 <ul>
    <li><a href="https://github.com/rohithpala/EazyFinder_JavaVersion/tree/EazyFinderCLI">EazyFinder CLI Version</a></li>
    <li><a href="https://github.com/rohithpala/EazyFinder_JavaVersion/tree/EazyFinderGUI">EazyFinder GUI Version</a></li>
 </ul>
 <a href="https://github.com/rohithpala/EazyFinder_PythonVersion">Python</a><br>
-Also have a look at the branches present there
