@@ -1,0 +1,6 @@
+City: HYDERABAD, From: lbnagar, To: ameerpet, Actual Cost: 34.0, Coupon Code: -, Discount: 0, Total Cost: 34.0, Booking Date: 15/7/2021, Booking Time: 16:51:43
+City: HYDERABAD, From: ameerpet, To: vanasthalipuram, Actual Cost: 114.0, Coupon Code: AH7PO4O, Discount: 25, Total Cost: 85.5, Booking Date: 15/7/2021, Booking Time: 16:52:06
+City: CHENNAI, From: ennore, To: poonamallee, Actual Cost: 200.0, Coupon Code: ROHITH4, Discount: 30, Total Cost: 140.0, Booking Date: 21/7/2021, Booking Time: 14:33:34
+City: HYDERABAD, From: lbnagar, To: chaithanyapuri, Actual Cost: 8.0, Coupon Code: -, Discount: 0, Total Cost: 8.0, Booking Date: 21/7/2021, Booking Time: 14:40:10
+City: HYDERABAD, From: lbnagar, To: ameerpet, Actual Cost: 102.0, Coupon Code: -, Discount: 0, Total Cost: 102.0, Booking Date: 21/7/2021, Booking Time: 14:44:33
+City: HYDERABAD, From: dilsukhnagar, To: lbnagar, Actual Cost: 6.0, Coupon Code: -, Discount: 0, Total Cost: 6.0, Booking Date: 21/7/2021, Booking Time: 15:22:55
