@@ -596,13 +596,10 @@ void formCity(){ // As city variable is global, it may be passed as argument or 
      // Connections of Cities will be done here
      int sourceIndex, destinationIndex, distance;
      char path[100], cityTemp[10];
-     printf("city: %s", city);
      getcwd(path, sizeof(path));
      strcat(path, "\\CitiesInfo\\");
      strcat(path, city);
      strcat(path, "-connections.txt");
-     printf("\ncityTemp: %s\n", cityTemp);
-     printf("path: %s\ncity: %s %s\n", path, cityTemp, city);
 
      FILE *cityConnectionsPointer = fopen(path, "r");
      while(fscanf(cityConnectionsPointer, "%d %d %d\n", &sourceIndex, &destinationIndex, &distance ) != EOF)
